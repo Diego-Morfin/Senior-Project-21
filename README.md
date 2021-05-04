@@ -1,5 +1,3 @@
-![something](https://user-images.githubusercontent.com/54593885/117068548-a70d7800-ace8-11eb-9043-a72894e9554a.png)
-
 # Film Finder
 
 ### Description:
@@ -14,3 +12,5 @@ saved unto the physical device on the application.
 * WPF
 * Visual Studio
 * XAML
+
+![filmfinder search](https://user-images.githubusercontent.com/54593885/117068548-a70d7800-ace8-11eb-9043-a72894e9554a.png)
