@@ -1,5 +1,4 @@
-# Senior Project for CS-4600
-### Film Finder
+# Film Finder
 
 ### Description:
 The application I created works as a way to help users find movies at a much easier and quicker rate. 
